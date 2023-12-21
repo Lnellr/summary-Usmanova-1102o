@@ -1,1 +1,1 @@
-touch
+console.log('test finished');
